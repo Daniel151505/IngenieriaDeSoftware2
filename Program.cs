@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace IngenieriaDeSoftware2
+namespace SOFTWARE1_PROYECTO
 {
     public class Program
     {
